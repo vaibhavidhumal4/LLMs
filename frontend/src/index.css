@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body, #root {
+  height: 100%;
+  background: #050a0f;
+  color: #c8dce8;
+  font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar        { width: 5px; height: 5px; }
+::-webkit-scrollbar-track  { background: #0a1520; }
+::-webkit-scrollbar-thumb  { background: #112233; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #00e5ff44; }
+
+/* Range input thumb */
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: #00e5ff;
+  cursor: pointer;
+  box-shadow: 0 0 6px #00e5ff;
+}
+input[type='range']::-webkit-slider-runnable-track {
+  background: #112233;
+  border-radius: 4px;
+  height: 4px;
+}
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  outline: none;
+  background: transparent;
+}
+
+button:focus-visible { outline: 1px solid #00e5ff; outline-offset: 2px; }
