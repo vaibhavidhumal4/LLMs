@@ -1,0 +1,31 @@
+sku_id,product_name,category,current_stock,reorder_point,reorder_qty,lead_time_days,unit_cost,annual_demand,supplier,safety_stock,last_stockout_date,on_hand_days
+SKU-001,Electronic Control Module,Electronics,45,80,200,28,124.50,1840,TechSupply Co,40,2024-11-15,8.9
+SKU-002,Hydraulic Pump Assembly,Machinery,12,30,100,35,340.00,520,GlobalMach Ltd,20,2024-12-01,8.4
+SKU-003,Industrial Filter Cartridge,Consumables,320,150,500,7,18.75,6200,FilterPro Inc,75,2024-09-20,18.8
+SKU-004,Bearing Unit 6205,Mechanical,8,50,300,21,12.30,4100,BearingWorld,60,2024-12-10,0.7
+SKU-005,PLC Controller Unit,Electronics,2,15,50,42,890.00,310,AutoControl GmbH,10,2024-12-18,2.4
+SKU-006,Conveyor Belt Segment,Logistics,67,40,80,14,156.20,940,ConveyTech,25,2024-10-30,26.0
+SKU-007,Pneumatic Valve 3/4in,Pneumatics,145,60,200,10,34.80,2850,PneumaSupply,45,2024-08-15,18.6
+SKU-008,Safety Gloves Box/12,Safety,890,400,1000,3,22.40,15600,SafetyFirst Ltd,200,2024-07-10,20.8
+SKU-009,Industrial Lubricant 20L,Consumables,28,45,100,5,67.90,3200,LubeMax Corp,30,2024-12-05,3.2
+SKU-010,Motor Drive Inverter,Electronics,3,10,25,38,1240.00,180,PowerDrive AG,8,2024-12-20,6.1
+SKU-011,Welding Wire Spool 15kg,Consumables,156,80,200,4,89.50,4800,WeldSupply Co,50,2024-06-12,11.9
+SKU-012,Pressure Gauge 0-100psi,Instruments,34,20,60,18,45.60,680,MeasureTech,15,2024-11-28,18.2
+SKU-013,Forklift Battery 48V,Power,6,8,12,45,2340.00,95,BatteryPro Ltd,5,2024-12-15,23.0
+SKU-014,Anti-Static Packaging,Packaging,2200,1000,3000,2,0.85,42000,PackSafe Inc,500,2024-05-30,19.1
+SKU-015,Cooling Fan 120mm,Electronics,78,50,150,12,28.40,2100,CoolAir Ltd,35,2024-10-08,13.5
+SKU-016,Industrial Hose 1in x 10m,Fluid,43,25,80,8,34.10,1450,HoseWorld,20,2024-11-20,10.8
+SKU-017,Circuit Breaker 20A,Electrical,19,30,100,15,67.80,1200,ElectroParts,25,2024-12-08,5.8
+SKU-018,Sensor Proximity NPN,Electronics,5,20,50,25,89.20,980,SensorTech GmbH,15,2024-12-12,1.9
+SKU-019,Steel Cable 6mm x 50m,Structural,28,15,40,20,124.60,560,SteelLink Co,10,2024-10-15,18.2
+SKU-020,Label Printer Ribbon,Consumables,450,200,500,1,8.90,9600,PrintSupply,100,2024-04-22,17.1
+SKU-021,Gearbox Reduction 10:1,Mechanical,7,12,20,30,567.00,240,GearTech Ltd,8,2024-12-03,10.6
+SKU-022,Industrial Switch Ethernet,Electronics,14,10,30,18,234.50,420,NetIndustrial,10,2024-11-10,12.2
+SKU-023,Air Compressor Filter,Pneumatics,89,40,120,6,24.30,2400,AirFilter Pro,30,2024-09-18,13.5
+SKU-024,Polyurethane Foam Roll,Packaging,334,150,400,3,45.60,7200,FoamPack Ltd,100,2024-08-25,16.9
+SKU-025,Emergency Stop Button,Safety,67,30,80,7,38.90,1560,SafetyCtrl,20,2024-07-30,15.7
+SKU-026,Servo Motor 750W,Electronics,4,8,15,40,1890.00,145,ServoTech AG,5,2024-12-19,10.1
+SKU-027,Pallet Wrap Film 500m,Packaging,1200,600,1500,2,18.40,24000,WrapFast,300,2024-06-15,18.2
+SKU-028,Industrial Thermometer,Instruments,22,10,30,14,56.70,520,ThermoMeasure,8,2024-11-25,15.4
+SKU-029,Hydraulic Hose Fitting,Fluid,134,60,150,9,22.80,3800,HydroFit Co,40,2024-10-20,12.9
+SKU-030,UPS Battery Module,Power,9,12,20,32,456.80,225,PowerBackup Ltd,8,2024-12-11,14.6

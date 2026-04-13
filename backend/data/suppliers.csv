@@ -1,0 +1,31 @@
+supplier_name,category,avg_lead_time_days,lead_time_variance_days,on_time_delivery_rate,quality_rejection_rate,avg_unit_cost_index,contract_compliance,annual_spend_usd,active_skus,last_audit_score,payment_terms_days
+TechSupply Co,Electronics,28,5,0.82,0.034,1.12,0.88,485000,12,78,30
+GlobalMach Ltd,Machinery,35,8,0.74,0.051,1.08,0.81,892000,8,71,45
+FilterPro Inc,Consumables,7,1,0.95,0.012,0.98,0.96,124000,6,91,30
+BearingWorld,Mechanical,21,4,0.88,0.022,0.95,0.92,67000,18,85,30
+AutoControl GmbH,Electronics,42,9,0.71,0.043,1.24,0.76,1240000,4,68,60
+ConveyTech,Logistics,14,3,0.91,0.018,1.04,0.93,234000,5,88,30
+PneumaSupply,Pneumatics,10,2,0.93,0.015,0.99,0.95,178000,11,90,30
+SafetyFirst Ltd,Safety,3,1,0.98,0.008,0.97,0.99,89000,9,96,15
+LubeMax Corp,Consumables,5,1,0.96,0.011,1.01,0.97,145000,7,93,30
+PowerDrive AG,Electronics,38,7,0.78,0.038,1.31,0.82,567000,3,74,60
+WeldSupply Co,Consumables,4,1,0.97,0.009,0.96,0.98,212000,5,94,15
+MeasureTech,Instruments,18,4,0.89,0.025,1.06,0.90,78000,8,84,30
+BatteryPro Ltd,Power,45,10,0.69,0.058,1.18,0.74,678000,2,65,60
+PackSafe Inc,Packaging,2,0,0.99,0.005,0.94,0.99,34000,4,98,15
+CoolAir Ltd,Electronics,12,3,0.92,0.019,1.02,0.94,123000,7,89,30
+HoseWorld,Fluid,8,2,0.94,0.014,0.98,0.95,89000,6,92,30
+ElectroParts,Electrical,15,3,0.90,0.021,1.05,0.91,167000,10,87,30
+SensorTech GmbH,Electronics,25,6,0.84,0.031,1.19,0.86,345000,6,80,45
+SteelLink Co,Structural,20,4,0.87,0.027,1.03,0.89,234000,4,83,30
+PrintSupply,Consumables,1,0,0.99,0.004,0.93,0.99,28000,3,99,15
+GearTech Ltd,Mechanical,30,6,0.80,0.041,1.14,0.83,456000,5,76,45
+NetIndustrial,Electronics,18,4,0.88,0.023,1.09,0.91,189000,7,86,30
+AirFilter Pro,Pneumatics,6,1,0.95,0.013,0.97,0.96,67000,5,92,30
+FoamPack Ltd,Packaging,3,1,0.98,0.007,0.96,0.98,89000,4,95,15
+SafetyCtrl,Safety,7,2,0.94,0.016,1.00,0.95,56000,5,91,30
+ServoTech AG,Electronics,40,8,0.75,0.045,1.28,0.78,890000,3,72,60
+WrapFast,Packaging,2,0,0.99,0.005,0.95,0.99,45000,3,97,15
+ThermoMeasure,Instruments,14,3,0.91,0.020,1.04,0.92,34000,4,88,30
+HydroFit Co,Fluid,9,2,0.93,0.016,1.00,0.94,123000,8,90,30
+PowerBackup Ltd,Power,32,7,0.79,0.039,1.16,0.80,234000,4,75,45
